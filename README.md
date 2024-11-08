@@ -1,7 +1,5 @@
 # Frontend Mentor - Invoice web app solution
 
-This is a solution to the [Invoice web app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -39,7 +37,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [link](https://invoice-web-app-react.vercel.app/)
+- Live Site URL: [link](https://invoice-generator-foysal.vercel.app)
 
 
 ### Built with
@@ -63,6 +61,6 @@ I learned how to work with the Framer Motion library. Prior to this project, I h
 
 ## Author
 
-- LinkedIn - [Hesam DearBoy](https://www.linkedin.com/in/hesam-azizpour-23259b265/)
+- LinkedIn - [Foysal Ahammed](https://www.linkedin.com/in/foysal-ahammedcse/)
 
 
